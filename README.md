@@ -38,3 +38,19 @@ Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane
 
 
 ## Election Audit Summary
+As seen in the [PyPoll_Challenge.py](https://github.com/AndyPicton/Election_Analysis/blob/58dbf4c8c538d5688c36ecd6f7dc4a56b2408db3/PyPoll_Challenge.py), this script can be run very quickly to analyze many lines of data. The code used can be modified anyway needed to analyze your data, it does not have to be rewritten. The data can be anything really and in an order, to make it as easy as possible for the code it would be best to leave it in the same format but that is still not required. 
+
+### To modify the script:
+1. The first change to the script would be to change the file_to_load path so that the new data can be read.
+![image](https://user-images.githubusercontent.com/99369565/158078677-83fd8718-6c0a-4e26-ab52-3e905286e49a.png)
+ - All you need to do is change 
+  - ("Resources", "election_results.csv")
+  - ("analysis", "election_analysis.txt")
+ - To:
+  - ("New folder name", "new_election_results.csv")
+  - ("New analysis", "New_election_analysis.txt")
+
+2. The second change that would be useful is to change the list and dictionary names to be consistant with the data.
+![image](https://user-images.githubusercontent.com/99369565/158078808-3c998ea2-ed8a-42cb-bac8-c4c952bf9eba.png)
+ - Change county_list[] to what you feel matches the data best
+
