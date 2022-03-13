@@ -24,9 +24,8 @@ Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane
 - Denver County received 306,055 votes which is 82.8% of the total votes cast
 - Arapahoe County received 24,801 votes which is 6.7% of the total votes cast
 
-
-The largest County turnout was Denver.
-
+**The largest County turnout was Denver
+**
 
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
@@ -37,18 +36,6 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 
 ![image](https://user-images.githubusercontent.com/99369565/158076858-b34da261-8739-4e0b-b857-f253993b8dc3.png)
-
-
-How many votes were cast in this congressional election?
-
-
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-
-Which county had the largest number of votes?
-
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 
 ## Election Audit Summary
