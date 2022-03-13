@@ -1,9 +1,10 @@
 # Election_Analysis
 ## Overview of Election Audit
-I recently helped Seth and Tom submit election audit results to the election commission but they are asking for more information. They asked for the following additional data:
+I recently helped Seth and Tom submit election audit results to the election commission and they asked for more information to better analyze the voting data. They asked for the following additional data:
  - Voter turnout for each county
  - Percentage of votes from each county out of the total count
  - County with the highest turnout
+
 I was able to collect and analyze the data using the following resources.
 
 ### Resources
